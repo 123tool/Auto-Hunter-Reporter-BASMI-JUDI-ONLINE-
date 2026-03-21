@@ -41,10 +41,11 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
    python main.py
 
  *⚠️ Disclaimer*
+ 
    ​**Script ini dibuat untuk tujuan keamanan
    siber dan membantu memberantas konten
    ilegal di Indonesia. Penggunaan di luar
    tanggung jawab pengembang. Pastikan Anda
    memiliki izin atau menggunakan data laporan
-   dengan bijak.**
-​Mari jaga internet Indonesia tetap bersih! 🇮🇩#
+   dengan bijak. ​Mari jaga internet Indonesia
+   tetap bersih! 🇮🇩**
