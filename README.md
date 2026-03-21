@@ -49,7 +49,7 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
    https://github.com/123tool/Auto-Hunter-Reporter-BASMI-JUDI-ONLINE-.git push -u origin
    main
 
- *💡 Hal Penting Sebelum Run:*
+ ## 💡 Hal Penting Sebelum Run:
  
 **1. App Password : Jangan pakai password Gmail
  utama. Masuk ke Google Account Security,
@@ -57,7 +57,7 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
  Password.**
 **2. Library: Jalankan pip install python-dotenv requests playwright python-whois googlesearch-python lalu playwright install chromium.**
 
- *⚠️ Disclaimer*
+ ## ⚠️ Disclaimer
  
    ​**Script ini dibuat untuk tujuan keamanan
    siber dan membantu memberantas konten
