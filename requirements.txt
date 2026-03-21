@@ -1,0 +1,5 @@
+python-dotenv
+requests
+playwright
+python-whois
+googlesearch-python
