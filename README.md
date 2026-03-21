@@ -19,5 +19,26 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/username/basmi-judi-online.git](https://github.com/username/basmi-judi-online.git)
-   cd basmi-judi-online
+   git clone [https://github.com/123tool/Auto-Hunter-Reporter-BASMI-JUDI-ONLINE-.git]
+   cd Auto-Hunter-Reporter-BASMI-JUDI-ONLINE
+2. **Instal Library yang dibutuhkan:**
+   ```bash
+   pip install requests playwright python-whois googlesearch-python
+3. **Instal Browser Engine (Playwright):**
+   ```bash
+   playwright install chromium
+4. **Konfigurasi Script:**
+   Buka file main.py dan isi bagian:
+   ```bash
+   ​TELEGRAM_TOKEN & CHAT_ID
+   ​EMAIL_SENDER & EMAIL_PASSWORD (Gunakan App
+   Password Gmail).
+5. **🚀 Cara Menjalankan
+   ​Jalankan script secara manual atau pasang
+   di Crontab (VPS) untuk berjalan otomatis
+   setiap 6 jam:**
+   ```bash
+   python basmi_judol.py
+*⚠️ Disclaimer
+​Script ini dibuat untuk tujuan keamanan siber dan membantu memberantas konten ilegal di Indonesia. Penggunaan di luar tanggung jawab pengembang. Pastikan Anda memiliki izin atau menggunakan data laporan dengan bijak.
+​Mari jaga internet Indonesia tetap bersih! 🇮🇩*
