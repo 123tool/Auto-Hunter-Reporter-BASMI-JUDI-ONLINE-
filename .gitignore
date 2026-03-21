@@ -1,0 +1,15 @@
+# Abaikan file kredensial (SANGAT PENTING)
+.env
+
+# Abaikan folder virtual environment
+venv/
+__pycache__/
+
+# Abaikan file log dan screenshot hasil scan
+*.png
+*.txt
+*.log
+
+# Abaikan file sistem
+.DS_Store
+Thumbs.db
