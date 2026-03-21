@@ -39,6 +39,15 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
    setiap 6 jam:**
    ```bash
    python main.py
+6. **Atau Buka terminal :**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit: Anti-Judol
+   Ultimate System"
+   git remote add origin
+   https://github.com/123tool/Auto-Hunter-Reporter-BASMI-JUDI-ONLINE-.git push -u origin
+   main
 
  *⚠️ Disclaimer*
  
