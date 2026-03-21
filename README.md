@@ -55,6 +55,7 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
  utama. Masuk ke Google Account Security,
  aktifkan 2-Step Verification, lalu buat App
  Password.**
+ 
 **2. Library: Jalankan pip install python-dotenv requests playwright python-whois googlesearch-python lalu playwright install chromium.**
 
  ## ⚠️ Disclaimer
