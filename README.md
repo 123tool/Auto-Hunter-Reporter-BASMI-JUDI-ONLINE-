@@ -10,7 +10,7 @@ Script otomatis berbasis Python untuk mendeteksi konten perjudian online pada do
 - **Telegram Notify**: Laporan instan langsung ke smartphone Anda.
 - **Asynchronous**: Proses scanning super cepat (paralel).
 
-## 🛠️ Syarat :
+## 🛠️ Syarat
 - Python 3.9 atau lebih tinggi.
 - Akun Gmail (untuk mengirim laporan email).
 - Bot Telegram (via @BotFather).
